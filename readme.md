@@ -1,0 +1,1 @@
+Small school assignment to create a image slideshow.
